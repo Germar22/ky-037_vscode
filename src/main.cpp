@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char WIFI_SSID[] = "Gabing PisoWifi";
+const char WIFI_SSID[] = "Gabing PisoWiFi";
 const char WIFI_PASSWORD[] = "";
 const int soundPin = 34;   // GPIO pin connected to the sound sensor
 const int ledPin = 2;      // ESP32 onboard LED pin
